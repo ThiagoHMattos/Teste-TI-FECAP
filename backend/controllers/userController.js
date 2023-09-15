@@ -1,4 +1,4 @@
-//// Eu não consegui adaptar ao Controlador, middleware e models até então. Logo a aplicação está toda rodando no server.js no backend.
+//// Eu não consegui adaptar ao Controlador, middleware e models até então. Logo a aplicação está toda rodando no server.js no backend. Mas EStou Procurando Soluções pois sei que não é a melhor forma de apresentar.
 
 const db = require('../models/userModel');
 const bcrypt = require('bcrypt');
